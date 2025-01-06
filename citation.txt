@@ -1,8 +1,6 @@
 @inproceedings{REPO160,
     author = "Zhang, Yuchen and Pang, Chengbin and Portokalidis, Georgios and Triandopoulos, Nikos and Xu, Jun",
-    address = "Boston, MA",
     booktitle = "31st USENIX Security Symposium (USENIX Security 22)",
-    isbn = "978-1-939133-31-1",
     month = "August",
     pages = "4345--4363",
     publisher = "USENIX Association",
